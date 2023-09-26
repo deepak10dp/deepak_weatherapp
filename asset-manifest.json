@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepak_weatherapp/static/css/main.3e61158a.css",
+    "main.js": "/deepak_weatherapp/static/js/main.6872cbe3.js",
+    "index.html": "/deepak_weatherapp/index.html",
+    "main.3e61158a.css.map": "/deepak_weatherapp/static/css/main.3e61158a.css.map",
+    "main.6872cbe3.js.map": "/deepak_weatherapp/static/js/main.6872cbe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e61158a.css",
+    "static/js/main.6872cbe3.js"
+  ]
+}
