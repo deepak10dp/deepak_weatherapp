@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+}
+
+
+.bttns{
+    margin-top: 20%;
+    
+    text-align: center;
+}
+.bttn{
+    padding: 20px 30px;
+    background-color: aliceblue;
+}
+p{
+    color: aliceblue;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+.bttn:hover{
+    background-color: grey;
+    cursor: pointer;
+}

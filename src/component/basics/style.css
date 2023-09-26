@@ -1,0 +1,109 @@
+*{
+    margin: 0 0;
+    box-sizing: border-box;
+    
+}
+.nav{
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+.nav-item{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.nav-bttn{
+    padding:10px 24px;
+    border: none;
+    background-color:rgb(222, 32, 32);
+    border-radius: 20px;
+    margin: 0 10px;
+    color: white;
+    
+
+}
+.nav-bttn:hover{
+    transform: scale(1.05);
+    transition: all ease 0.3s;
+    color: black;
+    
+}
+.container{
+    height: 400px;
+    width: 379px;
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: rgb(222, 32, 32);
+    border-radius: 3px;
+    
+}
+.main-div-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    
+
+}
+.numb{
+    font-size: 22px;
+    font-weight: lighter;
+    color: white;
+}
+
+.horizontal-line{
+    
+    box-shadow: rgb(255, 255, 5) 0px 54px 55px, rgb(249, 249, 10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgb(227, 227, 6) 0px 10px 12px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-color: black;
+}
+
+.food-img img{
+    height: 200px;
+    width: 370px;
+    
+    box-shadow: rgba(222, 203, 203, 0.25) 0px 54px 55px, rgba(249, 242, 242, 0.12) 0px -12px 30px, rgba(254, 243, 243, 0.12) 0px 4px 6px, rgba(255, 243, 243, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+.food-img img:hover{
+    transform: scale(1.04);
+    transition: 0.5s all ease ; 
+}
+
+.btn{
+    background-color: #ffe6ec;
+    border: none;
+    padding: 8px 20px;
+    margin-top: 20px;
+    margin-left: 290px;
+    border-radius: 30%;
+}
+.btn:hover{
+    transform: scale(1.06);
+    transition: all ease 0.3s;
+}
+.container span1{
+    font-size: 35px;
+    text-transform: capitalize;
+    color: white;
+    
+   
+    
+
+}
+.description{
+    color: rgb(253, 251, 251);
+    font-size: medium;
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+}
+.box{
+    height: 400px;
+    width: 300px;
+    border :2px solid white;
+    
+}
+

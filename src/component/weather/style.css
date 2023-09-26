@@ -1,0 +1,99 @@
+.sear {
+  background-color: whitesmoke;
+  height: 35px;
+  width: 190px;
+  flex-wrap: wrap;
+  display: flex;
+  border-radius: 50px;
+}
+.search {
+  display: flex;
+  margin-top: 10%;
+}
+.butt {
+  background-color: #ffcb74;
+  height: 35px;
+  width: 80px;
+
+  border-radius: 50px;
+}
+.container-search {
+  justify-content: center;
+  display: flex;
+}
+
+.widget {
+  height: 300px;
+  width: 450px;
+  justify-content: center;
+  background: linear-gradient
+    (135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(252, 251, 251, 0.37);
+  margin-top: 30px;
+}
+.art {
+  width: 5;
+  display: flex;
+  justify-content: center;
+}
+.weathericon {
+  background-color: white;
+}
+.weathericon img {
+  height: 130px;
+  width: 200px;
+  color: white;
+  background-color: white;
+  margin: 0px 100px;
+}
+.temp {
+  color: aliceblue;
+  margin-top: 50px;
+
+  background-color: #1c1c1c;
+
+  text-align: center;
+  display: grid;
+  grid-template-columns: 2.41fr 1fr;
+}
+.weathercondition {
+  font-size: 25px;
+  margin-left: 6px;
+  background-color: #1c1c1c;
+  margin-top: 20px;
+}
+.temp-val {
+  color: rgb(241, 236, 244);
+  font-size: 25px;
+  background-color: #1c1c1c;
+  margin-top: 20px;
+}
+.place {
+  color: #fdfeff;
+  font-size: 25px;
+  margin-left: 4px;
+  background-color: #1c1c1c;
+  margin-top: 20px;
+}
+.date {
+  color: white;
+  background-color: #ffcb74;
+  width: 130px;
+  font-size: 25px;
+  text-align: center;
+  height: 80px;
+
+  color: black;
+}
+
+
+.country {
+  font-size: 14px;
+  background-color: #1c1c1c;
+  margin-top: 35px;
+  padding: 0 5px;
+}
